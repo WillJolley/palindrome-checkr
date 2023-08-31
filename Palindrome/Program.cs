@@ -1,5 +1,5 @@
 using System;
-using PalindromeChecker;
+// using PalindromeChecker;
 
 namespace PalindromeChecker
 {

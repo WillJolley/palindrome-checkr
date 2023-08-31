@@ -15,5 +15,11 @@ namespace PalindromeChecker.Tests
       Text newText = new Text();
       Assert.AreEqual(typeof(Text), newText.GetType());
     }
+
+    [TestMethod]
+    public void GetText_ReturnsText_String()
+    {
+      string 
+    }
   }
 }
